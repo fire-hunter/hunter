@@ -10,15 +10,15 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
     PACKAGE_NAME
-    GLEW
+    SQLite
     VERSION
     "1.0.0"
     URL
-    "https://github.com/headupinclouds/GLEW/archive/v1.0.0.tar.gz"
+    "https://github.com/hunter-packages/SQLite/archive/v1.0.0.tar.gz"
     SHA1
-    8179fa9c015de071557fc3a1775c458dc23e82d1
+    5b3a005b2836a97767b7cfeaf23cb15d20a0ce33    
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
-hunter_cacheable(GLEW)
-hunter_download(PACKAGE_NAME GLEW)
+hunter_cacheable(SQLite)
+hunter_download(PACKAGE_NAME SQLite)
