@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.0.0-p1"
     URL
-    "https://github.com/headupinclouds/STB/archive/v1.0.0-p1.tar.gz"
+    "https://github.com/hunter-packages/STB/archive/v1.0.0-p1.tar.gz"
     SHA1
     39548b5ff6f76ee202d12af79e3932eb2d96fe2a
 )

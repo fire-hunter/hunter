@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.0.0-p0"
     URL
-    "https://github.com/headupinclouds/StanHull/archive/v1.0.0-p0.tar.gz"
+    "https://github.com/hunter-packages/StanHull/archive/v1.0.0-p0.tar.gz"
     SHA1
     1496eed8b265333d0b3a9b657f20c7fcc289b53e
 )
