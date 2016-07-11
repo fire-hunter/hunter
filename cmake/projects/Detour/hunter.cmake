@@ -13,9 +13,9 @@ hunter_add_version(
     PACKAGE_NAME
     Detour
     VERSION
-    "1.4.0-p0"
+    "1.0.0-p0"
     URL
-    "https://github.com/fire-hunter/Detour/archive/v1.4.0-p0.tar.gz"
+    "https://github.com/hunter-packages/Detour/archive/v1.0.0-p0.tar.gz"
     SHA1
     e41b258ff0ab07fb083b1e4fa2d330188399057c
 )

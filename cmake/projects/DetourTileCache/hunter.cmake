@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     "1.4.0-p0"
     URL
-    "https://github.com/fire-hunter/DetourTileCache/archive/v1.4.0-p0.tar.gz"
+    "https://github.com/hunter-packages/DetourTileCache/archive/v1.0.0-p0.tar.gz"
     SHA1
     60b76e6f0096eee24a750eab3c4ae63dcf9d074a
 )
